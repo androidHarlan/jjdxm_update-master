@@ -2,7 +2,7 @@
     <string name="jjdxm_update_action_pause">暂停</string>
     <string name="jjdxm_update_action_continue">继续</string>
     <string name="jjdxm_update_action_cancel">取消</string>
-    <string name="jjdxm_update_updatetitle">发现新版本</string>
+    <string name="jjdxm_update_updatetitle">应用更新</string>
     <string name="jjdxm_update_newversion">最新版本: </string>
     <string name="jjdxm_update_updatecontent">更新内容</string>
     <string name="jjdxm_update_targetsize">新版本大小:</string>
